@@ -1,6 +1,6 @@
 # Classifier voila
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinczeczko/wtt-01-classifier-app-template/HEAD?urlpath=%2Fvoila%2Frender%2Fclassifier_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinczeczko/test-my-classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fclassifier_app.ipynb)
 
 Template classifier with fastai and Voila
 
